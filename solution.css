@@ -1,0 +1,74 @@
+.ex-1-square:hover{
+    background-color: red;
+}
+
+/* Ancora da completare */
+.ex-2-square:hover{
+    background-color: red;
+    width: 400px;
+}
+
+.ex-3-square:hover{
+    background-color: red;
+    border-radius: 50px;
+}
+
+.ex-4-square:hover{
+    background-color:#f5f5f5 ;
+}
+
+/* Ancora da completare */
+.ex-5-square:hover{
+    margin: 0px;
+    height: 100px;
+    width: 100px;
+}
+
+.ex-6-img:hover{
+    filter: grayscale(1);
+    transition: 0s;
+}
+
+.ex-7-img:hover{
+    filter: opacity(0.5)invert(05);
+    transition: 4s;
+}
+
+.ex-8-img:hover{
+    filter: opacity(0.5) saturate(0.4);
+    border-radius: 120px;
+    transition: 4s;
+}
+
+.ex-9-img:hover{
+    filter: brightness(0.50) saturate(0.3);
+    margin: 0px;
+    width: 600px;
+    transition: 3s;
+}
+
+/* Esercizio ancora da terminare */
+
+.ex-10-icon{
+    font-size: 60px;
+    animation: cerchio 4s;
+}
+
+@keyframes ex-10-icon{
+    0%{
+        animation-direction: normal;
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
